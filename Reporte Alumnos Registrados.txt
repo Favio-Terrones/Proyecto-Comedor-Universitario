@@ -1,0 +1,12 @@
+Codigo		Nombre(s)	Apellidos			DNI		Correo			Facultad
+24		Javier		Pevez Jara		70103		javier@gmail.com		Sistemas
+21		Jorge		Perez Lopez		70102		jorge@gmail.com		Sistemas
+22		Luz		Velez Ramirez		70104		luz@gmail.com		Derecho
+25		Nombres25		Apellidos25		70105		correo25@gmail.com		Derecho
+26		Nombres26		Apellidos26		70106		correo26@gmail.com		Derecho
+27		Nombres27		Apellidos27		70107		correo27@gmail.com		Quimica
+28		Nombres28		Apellidos28		70108		correo28@gmail.com		Quimica
+29		Nombres29		Apellidos29		70109		correo29@gmail.com		Quimica
+30		Nombres30		Apellidos30		70110		correo30@gmail.com		Quimica
+23		Pepe		Grillo Chavez		70101		pepe@gmail.com		Sistemas
+
